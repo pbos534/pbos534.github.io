@@ -1,0 +1,2 @@
+/*! Grunt minif */
+try{$(document).ready(function(){loadDependantScript("/assets/js/libs/jquery.smartbanner.js",function(){$.smartbanner({title:"Bank Of Scotland",author:"Mobile Banking App",appStoreLanguage:"gb",icon:"/assets/img/personal/smart-banner/smart-banner.png",daysHidden:0,daysReminder:0})})})}catch(e){}
